@@ -1435,3 +1435,5 @@
 {"level":"info","message":"Listening on port 3000...","timestamp":"2022-08-02T10:41:20.391Z"}
 {"level":"info","message":"Listening on port 3000...","timestamp":"2022-08-02T10:52:18.384Z"}
 {"level":"info","message":"Connected to mongodb://localhost/vidly_test...","timestamp":"2022-08-02T10:52:18.406Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2022-08-02T14:08:30.513Z"}
+{"level":"info","message":"Connected to mongodb+srv://admin-tigran:Test123@cluster0.ucm3fm7.mongodb.net/vidly...","timestamp":"2022-08-02T14:08:31.815Z"}
